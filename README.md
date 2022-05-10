@@ -1,12 +1,14 @@
 # Powerplant Coding Challenge
+
+<p align="center">
+    <img style="width:200px; height: auto;" src="https://raw.githubusercontent.com/aunterei/powerplant-coding-challenge/master/docs/assets/logo.png" alt="Engie logo">
+</p>
+
+<br>
+
 | Programming language | Framework |
 | -------------------- | --------- |
 | C#                   | dotnet    |
-
-<p align="center">
-    <img src="https://raw.githubusercontent.com/aunterei/base-vue-project/master/docs/assets/logo.png" alt="Engie logo">
-</p>
-
 
 This is my submission for the [power plan coding challenge](https://aka.ms/webapi-plus-database-nodejs) by engie. As stated :
 
