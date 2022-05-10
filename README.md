@@ -10,7 +10,7 @@
 | -------------------- | --------- |
 | C#                   | dotnet    |
 
-This is my submission for the [power plan coding challenge](https://aka.ms/webapi-plus-database-nodejs) by engie. As stated :
+This is my submission for the [power plan coding challenge](https://github.com/gem-spaas/powerplant-coding-challenge) by engie. As stated :
 
 > The goal of this coding challenge is to calculate how much power each of a multitude of different powerplants need to produce (a.k.a. the production-plan) when the load is given and taking into account the cost of the underlying energy sources (gas, kerosine) and the Pmin and Pmax of each powerplant.
 
@@ -19,8 +19,7 @@ The end product is a REST API exposing an endpoint ```/productionplan``` that ac
 ```json
 {
   "load": 480,
-  "fuels":
-  {
+  "fuels": {
     "gas(euro/MWh)": 13.4,
     "kerosine(euro/MWh)": 50.8,
     "co2(euro/ton)": 20,
